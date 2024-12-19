@@ -16,6 +16,8 @@ In JavaScript, There are two types of Data-types,
 
 2nd: Non Perimitive data types.  [this uses heap memory]
      Objects
+     Arrays
+     Functions
 
 
 */
